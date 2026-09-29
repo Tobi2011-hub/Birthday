@@ -480,7 +480,7 @@ body::before {
 }
 
 .giant-birthday {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: 600;
   font-size: clamp(3rem, 12vw, 8rem);
   line-height: 1.1;
